@@ -3,7 +3,9 @@
 
 ##Files
 -README.md -- instruction and guide for the project work
+
 -CodeBook.md -- information about variables in the data and transformations
+
 -run_analysis.R -- final R script to the result
 
 ##Project Instruction
